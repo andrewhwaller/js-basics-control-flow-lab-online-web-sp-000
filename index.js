@@ -2,7 +2,8 @@
 
 function scuberGreetingForFeet(someValue) {
 
-  if (someValue) < 400 {
+  let someValue
+  if someValue < 400 {
     print "This one is on me!"
   } else if {
 
