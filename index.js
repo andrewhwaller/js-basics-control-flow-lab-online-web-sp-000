@@ -4,7 +4,7 @@ function scuberGreetingForFeet(someValue) {
 
   let someValue;
   if someValue <= 400 {
-    print 'This one is on me!'
+    scuberGreetingForFeet = 'This one is on me!'
   } else if someValue >= 2000 {
     print 'I will gladly take your thirty bucks.'
   }
